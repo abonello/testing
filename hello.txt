@@ -1,2 +1,8 @@
 Hello World.
 I am adding some changes.
+
+These are some further changes. I need to do:
+
+git add hello.txt
+git commit -m "Yet another commit"
+git push origin master
