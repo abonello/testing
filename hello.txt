@@ -6,3 +6,5 @@ These are some further changes. I need to do:
 git add hello.txt
 git commit -m "Yet another commit"
 git push origin master
+
+I am doing this change. Will it be on the master or on a branch? Which branch?
